@@ -250,7 +250,7 @@ void start()
 			system("cls");
 			board();
 			if(mode==2)
-			printf("\n\t\t.................you Won.................\n");
+			printf("\n\t\t..................you Won..................\n");
 			else
 			printf("\n\t\t.................Player1 Won.................\n");
 			break;
@@ -316,8 +316,9 @@ void start()
 		board();
 	}
 }
-void main()
+int main()
 {
 	board();
 	start();
+	return 0;
 }
