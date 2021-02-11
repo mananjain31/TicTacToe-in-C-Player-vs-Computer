@@ -56,7 +56,7 @@ void board()
 {
 	
 	system("cls");
-	printf("\n\n\t\t\t  TIC TAC TOE WITH COMPUTER:\n\n");
+	printf("\n\n\t\t\t       TIC TAC TOE GAME \n\n");
 
 	int k=0;
 	printf("\t\t\t\t-------------\n");
